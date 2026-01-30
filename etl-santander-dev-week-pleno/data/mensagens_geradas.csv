@@ -1,0 +1,19 @@
+nome,conta,cartao,saldo,perfil,mensagem,data_processamento
+Barbara Ferreira,12345-6,**** **** **** 1234,3500.75,Perfil Intermediário,"Olá, Barbara Ferreira! 👋
+
+Identificamos que você pertence ao Perfil Intermediário.
+Seu saldo atual é R$ 3.500,75.
+
+Conte com nossos serviços para evoluir sua vida financeira 💙",2026-01-30 10:15:00
+João Silva,98765-4,**** **** **** 5678,1250.40,Perfil Básico,"Olá, João Silva! 👋
+
+Identificamos que você pertence ao Perfil Básico.
+Seu saldo atual é R$ 1.250,40.
+
+Conte com nossos serviços para evoluir sua vida financeira 💙",2026-01-30 10:15:00
+Ana Souza,54321-9,**** **** **** 9012,8200.00,Perfil Premium,"Olá, Ana Souza! 👋
+
+Identificamos que você pertence ao Perfil Premium.
+Seu saldo atual é R$ 8.200,00.
+
+Conte com nossos serviços para evoluir sua vida financeira 💙",2026-01-30 10:15:00
